@@ -5,4 +5,4 @@ sources:
     database: analytics-457712
     schema: dbt_rbewarang
     tables:
-      - name: payment
+      - name: payments
