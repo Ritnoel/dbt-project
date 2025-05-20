@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stripe
+    database: analytics-457712
+    schema: dbt_rbewarang
+    tables:
+      - name: payments
